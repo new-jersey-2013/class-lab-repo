@@ -1,6 +1,6 @@
 ## Class Information
-- Name: Kurbanov Meylis
-- Certification: Meta Database   
+- Name: Kurbanov meylis
+- Certification: meta Database   
 
 ## Instructions
 Please replace the placeholders with your details:
