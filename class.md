@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Kurbanov Meylis
+- Certification: Meta Database   
 
 ## Instructions
 Please replace the placeholders with your details:
